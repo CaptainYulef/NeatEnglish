@@ -1,0 +1,22 @@
+* {
+    padding : 0;
+    margin : 0;
+}
+
+body {
+    background : NavajoWhite;
+    color : DarkGreen;
+padding : 1%;
+    margin : 1%;
+font-family: 'Source Sans Pro', serif;
+font-size: 90%;
+text-indent:5%;
+word-spacing:1px;
+line-height:1.5;
+}
+.bigger {
+	font-size: 150%;
+	}
+	.smaller {
+	font-size: 50%;
+	}
